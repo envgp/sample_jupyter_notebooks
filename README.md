@@ -21,7 +21,7 @@ Have you ever been in either of these scenarios? (I have):
 2. Tried to share some code you wrote with someone, only to have it be difficult to install on their machine? 
 
 These are the problems that github solves (also others)
-- seogi michael others please chime in with details i miss or questions
+- seogi michael others please chime in with details I miss or questions
 
 Git is a command line-based distributed version control system. Version control system means that its goal is to track and record every change in a set of text files (typically source code, but not exclusively), collectively called a repository. It then possible to check what every changes contained and when it occurred, and to recover and return to any previous state of the tracked files.
 
