@@ -65,17 +65,21 @@ Distributed means that these tracked files can be stored on many different compu
             * `figure2.png`
 
 * How to add changes
-    * How to add a new file to a repository
-        * `git add filename.py`
+
     * How to create a new branch 
         * `git branch branchname`
+    * How to add a new file to a repository
+        * `git add filename.py`
     * how to switch branches 
         * `git checkout branchname`
     * how to modify an existing file 
         * make your changes 
         * 1git add changed_file.py`
+        
 * How to commit changes (`-m` flag specifies "write a message with this commit")
-    * `git commit -m 'description of changes'`
+    * `git commit -m 'description of changes'`  
+* How to add your new branch
+    * `git push --set-upstream origin et_branch`
 * How to open a PR for peer review/merging
     * merge from GUI 
 * How to update your local repo
